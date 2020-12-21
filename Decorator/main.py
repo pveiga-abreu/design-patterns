@@ -1,5 +1,5 @@
 '''
-Design Template Method
+Design Pattern Decorator
 '''
 from classes.calculador import Calculador_de_impostos
 from classes.impostos import ICMS, ISS, ICPP, IKCV

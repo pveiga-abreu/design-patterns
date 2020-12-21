@@ -1,5 +1,5 @@
 '''
-Design Patterns Strategy
+Design Pattern Strategy
 '''
 
 from classes.calculador import Calculador_de_impostos

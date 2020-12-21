@@ -1,5 +1,5 @@
 '''
-Design Patterns Chain of Responsibility
+Design Pattern Chain of Responsibility
 '''
 
 from classes.orcamento import Orcamento, Item
