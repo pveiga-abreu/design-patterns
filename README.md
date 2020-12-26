@@ -1,5 +1,5 @@
 # Design Patterns
-Design Patterns examples using python
+Design Patterns examples using Python
 
 ### Strategy
     O pattern Strategy é muito útil quando temos algoritmos similares, e precisamos alternar entre eles em diferentes pedaços da aplicação.
@@ -14,4 +14,10 @@ Design Patterns examples using python
     Usado quando temos comportamentos que podem ser formados por comportamentos de outras classes envolvidas em uma mesma hierarquia.
 
 ### State
-    O pPattern State é usado quando há a necessidade de implementação de vários de estados, com comportamento únicos em cada estado, para uma instância.
+    O Pattern State é usado quando há a necessidade de implementação de vários de estados, com comportamento únicos em cada estado, para uma instância.
+
+### Builder
+    O Builder é utilizado quando temos uma instância complexa de ser criada.
+
+### Observer
+    O Pattern Observer é usado quando temos diversas ações diferentes a serem executadas após a criação de uma instância.
